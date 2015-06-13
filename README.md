@@ -5,4 +5,4 @@
 
 ----
 
-Designer: @tadamikiworks
+Designer: [@tadamikiworks](https://github.com/tadamikiworks)
